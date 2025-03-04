@@ -1,0 +1,29 @@
+# Web framework for API
+fastapi==0.75.0
+uvicorn==0.17.6
+
+# Machine Learning & AI Libraries
+tensorflow==2.8.0
+torch==1.12.1
+transformers==4.17.0
+scikit-learn==1.2.2
+
+# Data Processing
+pandas==1.5.3
+numpy==1.22.4
+
+# Logging & Monitoring
+loguru==0.5.3
+
+# HTTP Requests for External APIs
+requests==2.26.0
+
+# Database ORM (if using SQLite/PostgreSQL)
+sqlalchemy==1.4.27
+psycopg2==2.9.1  # For PostgreSQL (remove if not using PostgreSQL)
+
+# Web Server
+gunicorn==20.1.0
+
+# Other Utilities
+python-dotenv==0.19.2  # For managing environment variables

@@ -1,0 +1,121 @@
+Test log entry
+2025-03-03 13:47:44 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 13:47:44 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:23:52 - [2025-03-01 15:39:29] 2025-03-01T15:37:55.924725+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:52 - [2025-03-01 15:39:29] 2025-03-01T15:38:53.505086+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:52 - [2025-03-01 15:39:48] 2025-03-01T15:39:48.659266+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:52 - [2025-03-01 15:40:43] 2025-03-01T15:40:43.804806+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:52 - [2025-03-01 15:41:38] 2025-03-01T15:41:38.856818+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:53 - [2025-03-01 15:42:33] 2025-03-01T15:42:33.796360+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:53 - [2025-03-01 15:43:28] 2025-03-01T15:43:28.567958+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:53 - [2025-03-01 15:44:26] 2025-03-01T15:44:26.385426+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:53 - [2025-03-01 15:45:21] 2025-03-01T15:45:21.251207+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:53 - [2025-03-01 15:46:16] 2025-03-01T15:46:16.185812+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:54 - [2025-03-01 15:47:11] 2025-03-01T15:47:11.008230+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:54 - [2025-03-02 11:24:33] 2025-03-02T11:24:00.934787+00:00 Mathangi wsl-pro-service[194]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:54 - [2025-03-02 11:24:56] 2025-03-02T11:24:56.173777+00:00 Mathangi wsl-pro-service[194]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:23:54 - 2025-03-01 12:30:45 ERROR - Database connection failed
+2025-03-03 14:23:55 - 2025-03-01 12:30:46 ERROR - Network connection failed
+2025-03-03 14:23:55 - 2025-03-01 12:30:45 ERROR - Database connection failed
+2025-03-03 14:23:55 - 2025-03-01 12:50:46 ERROR - database connection failed
+2025-03-03 14:23:55 - 2025-03-01 12:50:46 ERROR - database connection failed
+2025-03-03 14:23:55 - ERROR: Something failed in the system
+2025-03-03 14:23:56 - ERROR: Something failed in the system
+2025-03-03 14:23:56 - 2025-03-01 12:00:00 ERROR Database connection failed!
+2025-03-03 14:23:56 - ERROR: Database connection failed
+2025-03-03 14:23:56 - WARNING: High memory usage detected
+2025-03-03 14:23:56 - ERROR: Database connection failed
+2025-03-03 14:23:56 - WARNING: High memory usage detected
+2025-03-03 14:23:57 - ERROR: Database connection failed
+2025-03-03 14:23:57 - WARNING: High memory usage detected
+2025-03-03 14:23:57 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:23:57 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:23:57 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:23:58 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:23:58 - WARNING: High memory usage detected
+2025-03-03 14:23:58 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:23:58 - WARNING: High memory usage detected
+2025-03-03 14:23:58 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:24:10 - WARNING: High memory usage detected
+2025-03-03 14:31:29 - [2025-03-01 15:39:29] 2025-03-01T15:37:55.924725+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:29 - [2025-03-01 15:39:29] 2025-03-01T15:38:53.505086+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:29 - [2025-03-01 15:39:48] 2025-03-01T15:39:48.659266+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:29 - [2025-03-01 15:40:43] 2025-03-01T15:40:43.804806+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:30 - [2025-03-01 15:41:38] 2025-03-01T15:41:38.856818+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:30 - [2025-03-01 15:42:33] 2025-03-01T15:42:33.796360+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:30 - [2025-03-01 15:43:28] 2025-03-01T15:43:28.567958+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:30 - [2025-03-01 15:44:26] 2025-03-01T15:44:26.385426+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:31 - [2025-03-01 15:45:21] 2025-03-01T15:45:21.251207+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:31 - [2025-03-01 15:46:16] 2025-03-01T15:46:16.185812+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:31 - [2025-03-01 15:47:11] 2025-03-01T15:47:11.008230+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:31 - [2025-03-02 11:24:33] 2025-03-02T11:24:00.934787+00:00 Mathangi wsl-pro-service[194]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:32 - [2025-03-02 11:24:56] 2025-03-02T11:24:56.173777+00:00 Mathangi wsl-pro-service[194]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 14:31:32 - 2025-03-01 12:30:45 ERROR - Database connection failed
+2025-03-03 14:31:32 - 2025-03-01 12:30:46 ERROR - Network connection failed
+2025-03-03 14:31:32 - 2025-03-01 12:30:45 ERROR - Database connection failed
+2025-03-03 14:31:33 - 2025-03-01 12:50:46 ERROR - database connection failed
+2025-03-03 14:31:33 - 2025-03-01 12:50:46 ERROR - database connection failed
+2025-03-03 14:31:33 - ERROR: Something failed in the system
+2025-03-03 14:31:33 - ERROR: Something failed in the system
+2025-03-03 14:31:34 - 2025-03-01 12:00:00 ERROR Database connection failed!
+2025-03-03 14:31:34 - ERROR: Database connection failed
+2025-03-03 14:31:34 - WARNING: High memory usage detected
+2025-03-03 14:31:34 - ERROR: Database connection failed
+2025-03-03 14:31:34 - WARNING: High memory usage detected
+2025-03-03 14:31:35 - ERROR: Database connection failed
+2025-03-03 14:31:35 - WARNING: High memory usage detected
+2025-03-03 14:31:35 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:31:36 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:31:36 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:31:36 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:31:36 - WARNING: High memory usage detected
+2025-03-03 14:31:37 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:31:37 - WARNING: High memory usage detected
+2025-03-03 14:31:37 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:31:37 - WARNING: High memory usage detected
+2025-03-03 14:31:38 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:31:38 - 2025-03-01 12:01:15 WARNING High memory usage detected
+2025-03-03 14:31:38 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 14:31:38 - 2025-03-01 12:01:15 WARNING High memory usage detected
+2025-03-03 16:54:36 - [2025-03-01 15:39:29] 2025-03-01T15:37:55.924725+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:36 - [2025-03-01 15:39:29] 2025-03-01T15:38:53.505086+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:36 - [2025-03-01 15:39:48] 2025-03-01T15:39:48.659266+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:37 - [2025-03-01 15:40:43] 2025-03-01T15:40:43.804806+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:37 - [2025-03-01 15:41:38] 2025-03-01T15:41:38.856818+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:37 - [2025-03-01 15:42:33] 2025-03-01T15:42:33.796360+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:37 - [2025-03-01 15:43:28] 2025-03-01T15:43:28.567958+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:38 - [2025-03-01 15:44:26] 2025-03-01T15:44:26.385426+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:38 - [2025-03-01 15:45:21] 2025-03-01T15:45:21.251207+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:38 - [2025-03-01 15:46:16] 2025-03-01T15:46:16.185812+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:38 - [2025-03-01 15:47:11] 2025-03-01T15:47:11.008230+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:39 - [2025-03-02 11:24:33] 2025-03-02T11:24:00.934787+00:00 Mathangi wsl-pro-service[194]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:39 - [2025-03-02 11:24:56] 2025-03-02T11:24:56.173777+00:00 Mathangi wsl-pro-service[194]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+2025-03-03 16:54:39 - 2025-03-01 12:30:45 ERROR - Database connection failed
+2025-03-03 16:54:39 - 2025-03-01 12:30:46 ERROR - Network connection failed
+2025-03-03 16:54:40 - 2025-03-01 12:30:45 ERROR - Database connection failed
+2025-03-03 16:54:40 - 2025-03-01 12:50:46 ERROR - database connection failed
+2025-03-03 16:54:40 - 2025-03-01 12:50:46 ERROR - database connection failed
+2025-03-03 16:54:40 - ERROR: Something failed in the system
+2025-03-03 16:54:41 - ERROR: Something failed in the system
+2025-03-03 16:54:41 - 2025-03-01 12:00:00 ERROR Database connection failed!
+2025-03-03 16:54:41 - ERROR: Database connection failed
+2025-03-03 16:54:41 - WARNING: High memory usage detected
+2025-03-03 16:54:42 - ERROR: Database connection failed
+2025-03-03 16:54:42 - WARNING: High memory usage detected
+2025-03-03 16:54:42 - ERROR: Database connection failed
+2025-03-03 16:54:42 - WARNING: High memory usage detected
+2025-03-03 16:54:43 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 16:54:43 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 16:54:43 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 16:54:43 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 16:54:44 - WARNING: High memory usage detected
+2025-03-03 16:54:44 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 16:54:44 - WARNING: High memory usage detected
+2025-03-03 16:54:44 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 16:54:44 - WARNING: High memory usage detected
+2025-03-03 16:54:45 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 16:54:45 - 2025-03-01 12:01:15 WARNING High memory usage detected
+2025-03-03 16:54:45 - 2025-03-01 12:00:10 ERROR Connection failed
+2025-03-03 16:54:45 - 2025-03-01 12:01:15 WARNING High memory usage detected
+2025-03-03 16:54:46 - 2025-03-01 12:00:20 ERROR Connection failed
+2025-03-03 16:54:46 - 2025-03-01 12:01:30 WARNING High memory usage detected

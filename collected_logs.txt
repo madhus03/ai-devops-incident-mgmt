@@ -1,0 +1,125 @@
+[2025-03-01 15:39:29] 2025-03-01T15:37:55.924725+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:39:29] 2025-03-01T15:37:55.924819+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:39:29] 2025-03-01T15:37:55.925872+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-01 15:39:29] 2025-03-01T15:38:23.054692+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:39:29] 2025-03-01T15:38:53.498883+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-01 15:39:29] 2025-03-01T15:38:53.499520+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-01 15:39:29] 2025-03-01T15:38:53.505086+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:39:29] 2025-03-01T15:38:53.505219+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:39:29] 2025-03-01T15:38:53.505300+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-01 15:39:29] 2025-03-01T15:38:52.962806+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:39:48] 2025-03-01T15:39:22.790712+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:39:48] 2025-03-01T15:39:48.655402+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-01 15:39:48] 2025-03-01T15:39:48.655619+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-01 15:39:48] 2025-03-01T15:39:48.659266+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:39:48] 2025-03-01T15:39:48.659402+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:39:48] 2025-03-01T15:39:48.659444+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-01 15:39:52] 2025-03-01T15:39:52.966557+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:40:43] 2025-03-01T15:40:22.812259+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:40:43] 2025-03-01T15:40:43.793293+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-01 15:40:43] 2025-03-01T15:40:43.795345+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-01 15:40:43] 2025-03-01T15:40:43.804806+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:40:43] 2025-03-01T15:40:43.804895+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:40:43] 2025-03-01T15:40:43.809569+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-01 15:40:52] 2025-03-01T15:40:52.910714+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:41:38] 2025-03-01T15:41:24.007656+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:41:38] 2025-03-01T15:41:38.850757+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-01 15:41:38] 2025-03-01T15:41:38.850924+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-01 15:41:38] 2025-03-01T15:41:38.856818+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:41:38] 2025-03-01T15:41:38.856933+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:41:38] 2025-03-01T15:41:38.857024+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-01 15:41:55] 2025-03-01T15:41:55.082059+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:42:33] 2025-03-01T15:42:24.926037+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:42:33] 2025-03-01T15:42:33.788652+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-01 15:42:33] 2025-03-01T15:42:33.789244+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-01 15:42:33] 2025-03-01T15:42:33.796360+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:42:33] 2025-03-01T15:42:33.796535+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:42:33] 2025-03-01T15:42:33.797483+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-01 15:42:56] 2025-03-01T15:42:56.680729+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:43:28] 2025-03-01T15:43:28.505056+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:43:28] 2025-03-01T15:43:28.558871+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-01 15:43:28] 2025-03-01T15:43:28.559242+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-01 15:43:28] 2025-03-01T15:43:28.567958+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:43:28] 2025-03-01T15:43:28.568130+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:43:28] 2025-03-01T15:43:28.568390+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-01 15:43:59] 2025-03-01T15:43:59.769998+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:44:26] 2025-03-01T15:44:26.380389+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-01 15:44:26] 2025-03-01T15:44:26.380896+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-01 15:44:26] 2025-03-01T15:44:26.385426+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:44:26] 2025-03-01T15:44:26.385833+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:44:26] 2025-03-01T15:44:26.386567+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-01 15:44:31] 2025-03-01T15:44:31.257698+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:45:21] 2025-03-01T15:45:02.753045+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:45:21] 2025-03-01T15:45:21.217300+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-01 15:45:21] 2025-03-01T15:45:21.250766+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-01 15:45:21] 2025-03-01T15:45:21.251207+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:45:21] 2025-03-01T15:45:21.251436+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:45:21] 2025-03-01T15:45:21.252854+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-01 15:45:34] 2025-03-01T15:45:34.484368+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:46:16] 2025-03-01T15:46:04.326961+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:46:16] 2025-03-01T15:46:16.180378+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-01 15:46:16] 2025-03-01T15:46:16.180976+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-01 15:46:16] 2025-03-01T15:46:16.185812+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:46:16] 2025-03-01T15:46:16.186188+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:46:16] 2025-03-01T15:46:16.186586+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-01 15:46:35] 2025-03-01T15:46:35.524146+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:47:11] 2025-03-01T15:47:07.311091+00:00 Mathangi systemd-resolved[104]: Clock change detected. Flushing caches.
+[2025-03-01 15:47:11] 2025-03-01T15:47:11.003954+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-01 15:47:11] 2025-03-01T15:47:11.004130+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-01 15:47:11] 2025-03-01T15:47:11.008230+00:00 Mathangi wsl-pro-service[175]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-01 15:47:11] 2025-03-01T15:47:11.008312+00:00 Mathangi wsl-pro-service[175]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-01 15:47:11] 2025-03-01T15:47:11.008350+00:00 Mathangi wsl-pro-service[175]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-02 11:24:33] 2025-03-02T10:43:33.364732+00:00 Mathangi wsl-pro-service[194]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-02 11:24:33] 2025-03-02T10:43:33.364820+00:00 Mathangi wsl-pro-service[194]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-02 11:24:33] 2025-03-02T11:23:07.508303+00:00 Mathangi systemd-resolved[114]: Clock change detected. Flushing caches.
+[2025-03-02 11:24:33] 2025-03-02T11:23:35.536866+00:00 Mathangi systemd-resolved[114]: message repeated 2 times: [ Clock change detected. Flushing caches.]
+[2025-03-02 11:24:33] 2025-03-02T11:24:00.930196+00:00 Mathangi wsl-pro-service[194]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-02 11:24:33] 2025-03-02T11:24:00.930359+00:00 Mathangi wsl-pro-service[194]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-02 11:24:33] 2025-03-02T11:24:00.934787+00:00 Mathangi wsl-pro-service[194]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-02 11:24:33] 2025-03-02T11:24:00.934874+00:00 Mathangi wsl-pro-service[194]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-02 11:24:33] 2025-03-02T11:24:00.934896+00:00 Mathangi wsl-pro-service[194]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+[2025-03-02 11:24:33] 2025-03-02T11:24:05.305738+00:00 Mathangi systemd-resolved[114]: Clock change detected. Flushing caches.
+[2025-03-02 11:24:56] 2025-03-02T11:24:35.092134+00:00 Mathangi systemd-resolved[114]: Clock change detected. Flushing caches.
+[2025-03-02 11:24:56] 2025-03-02T11:24:56.156661+00:00 Mathangi wsl-pro-service[194]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+[2025-03-02 11:24:56] 2025-03-02T11:24:56.173646+00:00 Mathangi wsl-pro-service[194]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+[2025-03-02 11:24:56] 2025-03-02T11:24:56.173777+00:00 Mathangi wsl-pro-service[194]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/matha/.ubuntupro/.address": open /mnt/c/Users/matha/.ubuntupro/.address: no such file or directory
+[2025-03-02 11:24:56] 2025-03-02T11:24:56.173807+00:00 Mathangi wsl-pro-service[194]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+[2025-03-02 11:24:56] 2025-03-02T11:24:56.173848+00:00 Mathangi wsl-pro-service[194]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-03-01 12:30:45 ERROR - Database connection failed
+2025-03-01 12:30:46 ERROR - Network connection failed
+2025-03-01 12:30:45 ERROR - Database connection failed
+2025-03-01 12:50:46 ERROR - database connection failed
+2025-03-01 12:50:46 ERROR - database connection failed
+ERROR: Something failed in the system
+ERROR: Something failed in the system
+2025-03-01 12:00:00 ERROR Database connection failed!
+INFO: Application started successfully
+ERROR: Database connection failed
+WARNING: High memory usage detected
+INFO: Application started successfully
+ERROR: Database connection failed
+WARNING: High memory usage detected
+INFO: Application started successfully
+ERROR: Database connection failed
+WARNING: High memory usage detected
+2025-03-01 12:00:00 INFO Starting service
+2025-03-01 12:00:10 ERROR Connection failed
+2025-03-01 12:00:00 INFO Starting service
+2025-03-01 12:00:10 ERROR Connection failed
+2025-03-01 12:00:00 INFO Starting service
+2025-03-01 12:00:10 ERROR Connection failed
+2025-03-01 12:00:00 INFO Starting service
+2025-03-01 12:00:10 ERROR Connection failed
+WARNING: High memory usage detected
+2025-03-01 12:00:00 INFO Starting service
+2025-03-01 12:00:10 ERROR Connection failed
+WARNING: High memory usage detected
+2025-03-01 12:00:10 ERROR Connection failed
+WARNING: High memory usage detected
+2025-03-01 12:00:00 INFO Starting service
+2025-03-01 12:00:10 ERROR Connection failed
+2025-03-01 12:01:15 WARNING High memory usage detected
+2025-03-01 12:00:10 ERROR Connection failed
+2025-03-01 12:01:15 WARNING High memory usage detected
+2025-03-01 12:00:20 ERROR Connection failed
+2025-03-01 12:01:30 WARNING High memory usage detected
