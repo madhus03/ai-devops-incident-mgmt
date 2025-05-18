@@ -1,1 +1,1 @@
-# AI-Powered DevOps Incident Management
+DevOps Incident Management
